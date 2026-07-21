@@ -1,0 +1,6 @@
+{
+  "name": "Movistar",
+  "description": "Aplicación interactiva de Movistar con portal público, panel de control administrativo, chat de soporte interactivo y gestor de contenidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
